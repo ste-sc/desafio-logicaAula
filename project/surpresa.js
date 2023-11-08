@@ -6,4 +6,4 @@ console.log (poke1 + fraseSucess)
 
 let pokename = ["dragronite, dragonite; poochyena; wurmple"]
 
-console.log (pokename)
+//in progress
